@@ -1,4 +1,4 @@
-module github.com/manifoldco/go-base64
+module github.com/manifoldco/go-base32
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
